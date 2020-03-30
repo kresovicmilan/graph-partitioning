@@ -5,7 +5,3 @@ Project about graph partitioning algorithms done as part of an internship.
 The specific algorithms that were analized were:
 - **Kernighan-Lin algorithm**
 - **Fiduccia-Mattheyeses algorithm**
-
-## Starting
-
-Run main.c file
